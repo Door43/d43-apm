@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apm:home|Door43 (apm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apm|d43-apm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apm/archive/master.zip|d43-apm.zip]]
+
+**Recent Changes**
+{{changes>ns = apm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apm|Ethnologue data]]
+
